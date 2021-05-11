@@ -1,10 +1,9 @@
 ## Welcome to YUN-TING LAI's collections
 
-大綱
-
-```網站開發
-
+# 網站開發
+```markdown
 # Django錄音機網站
+
 - 網站框架(Django)、後端工具(Python, MySQL)、前端工具(Vue.js, Bootstrap)
 - 前後端分離，後端以API傳遞資料至前端
 - 響應式網站: 登入功能、使用者權限、Vue.js元件、前後台介面
@@ -17,10 +16,13 @@
 
 ```
 
-```功能開發
+# 功能開發
+```markdown
 
 ```
 
-```碩士班專案
+# 碩士班專案
+```markdown
 
 ```
+
