@@ -1,5 +1,3 @@
-## Welcome to YUN-TING LAI's collections
-
 # 網站開發
 ```markdown
 # Django錄音機網站
