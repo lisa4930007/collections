@@ -1,5 +1,8 @@
 <link rel="stylesheet" href="../css/social-circles.min.css">
 
+[Code](https://github.com/lisa4930007/Django_news)
+![one_recorder_示意](https://user-images.githubusercontent.com/14839962/117851557-035c3300-b2b9-11eb-823d-dba9b7c4c7e2.png)
+
 # 網站開發
 ```markdown
 # Django錄音機網站
