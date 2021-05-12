@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="../css/social-circles.min.css">
+
 # 網站開發
 ```markdown
 # Django錄音機網站
@@ -31,3 +33,9 @@
 ```
 
 
+
+
+github
+lisalai@gapp.nthu.edu.tw
+
+<a class="icon-linkedin social-button color" href="https://www.linkedin.com/in/lisa4930007/"></a>
