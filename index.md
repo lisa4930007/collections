@@ -10,7 +10,7 @@
 
 ![one_recorder_示意](https://user-images.githubusercontent.com/14839962/117851557-035c3300-b2b9-11eb-823d-dba9b7c4c7e2.png)
 
-### Django部落格網站  [code](https://github.com/lisa4930007/Django_news)
+### Django部落格  [code](https://github.com/lisa4930007/Django_news)
 - 貼文&留言板 CRUD
 - 響應式網頁、登入功能、使用者權限
 
