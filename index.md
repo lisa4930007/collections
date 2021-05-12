@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../css/social-circles.min.css">
+<link rel="stylesheet" href="../social-circles.min.css">
 
 # 網站開發
 
