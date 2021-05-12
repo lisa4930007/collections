@@ -60,9 +60,4 @@ _Oriental COCOSDA 2018 Best Student Award_
 
 
 
-
-<br/>
-<https://github.com/lisa4930007><br/>
-<lisalai@gapp.nthu.edu.tw><br/>
-
 <a class="icon-linkedin social-button color" href="https://www.linkedin.com/in/lisa4930007/"></a>
