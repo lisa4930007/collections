@@ -1,9 +1,3 @@
----
----
-
-@import "{{ site.theme }}";
-@import "{{ social-circles.min.css }}";
-
 # 網站開發
 
 ### Django錄音機網站
@@ -62,6 +56,3 @@ _Oriental COCOSDA 2018 Best Student Award_
 
 ![圖片 1](https://user-images.githubusercontent.com/14839962/117907845-11866f80-b30a-11eb-81ba-ca119ce94b0b.png)
 
-
-
-<a class="icon-linkedin social-button color" href="https://www.linkedin.com/in/lisa4930007/"></a>
