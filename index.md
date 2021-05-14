@@ -1,5 +1,3 @@
-# YUN-TING LAI’s collections
-
 # 網站開發
 
 ### Django錄音機網站
