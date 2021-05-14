@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
-page:
-  title: YUN-TING LAI’s collections
+title: YUN-TING LAI’s collections
 description:  
 github:
   is_project_page: false
