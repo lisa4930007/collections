@@ -1,4 +1,8 @@
-<link rel="stylesheet" href="../social-circles.min.css">
+---
+---
+
+@import "{{ site.theme }}";
+@import "{{ social-circles.min.css }}";
 
 # 網站開發
 
