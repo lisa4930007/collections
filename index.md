@@ -1,42 +1,42 @@
 # 功能開發 | 2020.1-Present
 
-### 集保戶股權分散系統 [code](https://github.com/lisa4930007/ownership_distribution_access_db)
+### 集保戶股權分散系統  [[code]](https://github.com/lisa4930007/ownership_distribution_access_db)
 - crawlers
 - database: Office Access
 - export table and figures to excels
 - .bat批次檔、設定工作自動排程
 
-### GCP API Speech-to-Text  [code](https://gist.github.com/lisa4930007/7ae7126fc4269b2260490e1b000935a3)
+### GCP API Speech-to-Text  [[code]](https://gist.github.com/lisa4930007/7ae7126fc4269b2260490e1b000935a3)
 - 撰寫 Python script 使用 Speech-to-Text API 服務 
 - 上傳大型 audio 資料於 Google Cloud Storage
 
-### .mat檔轉成yolo檔格式  [code](https://gist.github.com/lisa4930007/9af1c0d2832e77a7454d3ed9f6fca9c2)
+### .mat檔轉成yolo檔格式  [[code]](https://gist.github.com/lisa4930007/9af1c0d2832e77a7454d3ed9f6fca9c2)
 
 ### Python爬蟲開發
 1. 爬取各股股票交易日收盤價，計算目標日於 N 日 (3, 5, 20, 60, 120, 240) 內達創新高股價之股票，整理至 excel 檔。 <br/>
-[案件spec](https://reurl.cc/R6YL1z) | [code](https://gist.github.com/lisa4930007/3bb27a1e5e40af7d67c3085749b1bd9d)
+[[案件spec]](https://reurl.cc/R6YL1z) | [[code]](https://gist.github.com/lisa4930007/3bb27a1e5e40af7d67c3085749b1bd9d)
 2. 爬取 dcard 內文、留言，整理至 excel 檔。<br/>
-[作品連結](https://reurl.cc/a5oNO4) | [code](https://gist.github.com/lisa4930007/a196bd9882bcd4ffbbfda05da9724622)
+[[作品連結]](https://reurl.cc/a5oNO4) | [[code]](https://gist.github.com/lisa4930007/a196bd9882bcd4ffbbfda05da9724622)
 3. 爬國泰、元大、富邦等網站的匯率，可做每日自動爬資料功能，並整理為所需的格式、匯出到 csv 檔。<br/>
-[作品連結](https://reurl.cc/l0Yppd) | [code](https://gist.github.com/lisa4930007/dc423f78cf8f8daf842c451ab6cd52e8)
+[[作品連結]](https://reurl.cc/l0Yppd) | [[code]](https://gist.github.com/lisa4930007/dc423f78cf8f8daf842c451ab6cd52e8)
 4. 爬取債券網站所有月份之 csv 檔案，整理格式匯出至 excel 檔。<br/>
-[作品連結](https://reurl.cc/jqNgLM) | [code](https://gist.github.com/lisa4930007/361d9a55d048e2ab3a0606c3eb3d6ee3)
+[[作品連結]](https://reurl.cc/jqNgLM) | [[code]](https://gist.github.com/lisa4930007/361d9a55d048e2ab3a0606c3eb3d6ee3)
 
 
 
 # 網站開發 | 2020.10-Present
 
-### Django部落格 [code](https://github.com/lisa4930007/django-sweet-home)
-Demo https://django-sweet-home.herokuapp.com/
+### (建置中) Django部落格 [[code]](https://github.com/lisa4930007/django-sweet-home)
+<b>Demo</b> https://django-sweet-home.herokuapp.com/
 - 貼文&留言板 CRUD
 - 響應式網頁、登入功能、第三方登入、使用者權限
 - Unit Test
-- (建置中)
 
-### Django錄音機網站
+### (建置中) Django錄音機網站
 - 網站框架 (Django)、後端工具 (Python, MySQL)、前端工具 (Vue.js, Bootstrap)
 - 前後端分離，後端以 API 傳遞資料至前端
 - 響應式網頁、登入功能、使用者權限、Vue.js 元件、前後台介面
+
 ![one_recorder_示意](https://user-images.githubusercontent.com/14839962/117851557-035c3300-b2b9-11eb-823d-dba9b7c4c7e2.png)
 
 
@@ -65,7 +65,7 @@ _Oriental COCOSDA 2018 Best Student Award_
 
 
 # Graduation capstone in college | 2014.6-2015.6
-「實作HTML5於類3D線上展覽室」 [Work link](https://drive.google.com/file/d/18pJSgmHkTLm5NuR16cgqb89M6FUw6pMl/view?usp=sharing)
+「實作HTML5於類3D線上展覽室」 [[Work link]](https://drive.google.com/file/d/18pJSgmHkTLm5NuR16cgqb89M6FUw6pMl/view?usp=sharing)
 - Team leader (led a 5-member team on the gratuate project)
 - Project planning and team member coordination
 - Coding and developing using Html5, CSS, Javascript, jQuery, WebGL, PHP and MySQL
