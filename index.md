@@ -1,27 +1,14 @@
-# 網站開發 | 2020.10-Present
-
-### Django錄音機網站
-
-- 網站框架 (Django)、後端工具 (Python, MySQL)、前端工具 (Vue.js, Bootstrap)
-- 前後端分離，後端以 API 傳遞資料至前端
-- 響應式網頁、登入功能、使用者權限、Vue.js 元件、前後台介面
-
-![one_recorder_示意](https://user-images.githubusercontent.com/14839962/117851557-035c3300-b2b9-11eb-823d-dba9b7c4c7e2.png)
-
-### Django部落格  [code](https://github.com/lisa4930007/Django_news)
-- 貼文&留言板 CRUD
-- 響應式網頁、登入功能、使用者權限
-
-![newspaper_示意](https://user-images.githubusercontent.com/14839962/117851535-fdfee880-b2b8-11eb-942d-45435027173d.png)
-
-
-
-
 # 功能開發 | 2020.1-Present
 
-### GCP API Speech-to-Text  [code](https://gist.github.com/lisa4930007/934866e97e37ceba29e75136b4e52038)
+### 集保戶股權分散系統 [code](https://github.com/lisa4930007/ownership_distribution_access_db)
+- crawlers
+- database: Office Access
+- export table and figures to excels
+- .bat批次檔、設定工作自動排程
+
+### GCP API Speech-to-Text  [code](https://gist.github.com/lisa4930007/7ae7126fc4269b2260490e1b000935a3)
 - 撰寫 Python script 使用 Speech-to-Text API 服務 
-- 上傳大型聲音資料於 Google Cloud Storage
+- 上傳大型 audio 資料於 Google Cloud Storage
 
 ### .mat檔轉成yolo檔格式  [code](https://gist.github.com/lisa4930007/9af1c0d2832e77a7454d3ed9f6fca9c2)
 
@@ -35,6 +22,22 @@
 4. 爬取債券網站所有月份之 csv 檔案，整理格式匯出至 excel 檔。<br/>
 [作品連結](https://reurl.cc/jqNgLM) | [code](https://gist.github.com/lisa4930007/361d9a55d048e2ab3a0606c3eb3d6ee3)
 
+
+
+# 網站開發 | 2020.10-Present
+
+### Django部落格 [code](https://github.com/lisa4930007/django-sweet-home)
+Demo https://django-sweet-home.herokuapp.com/
+- 貼文&留言板 CRUD
+- 響應式網頁、登入功能、第三方登入、使用者權限
+- Unit Test
+- (建置中)
+
+### Django錄音機網站
+- 網站框架 (Django)、後端工具 (Python, MySQL)、前端工具 (Vue.js, Bootstrap)
+- 前後端分離，後端以 API 傳遞資料至前端
+- 響應式網頁、登入功能、使用者權限、Vue.js 元件、前後台介面
+![one_recorder_示意](https://user-images.githubusercontent.com/14839962/117851557-035c3300-b2b9-11eb-823d-dba9b7c4c7e2.png)
 
 
 
@@ -58,7 +61,6 @@ _Oriental COCOSDA 2018 Best Student Award_
 3. Real-time音高偵測與即時通知提醒 (GUI demo)
 
 ![圖片 1](https://user-images.githubusercontent.com/14839962/117907845-11866f80-b30a-11eb-81ba-ca119ce94b0b.png)
-
 
 
 
