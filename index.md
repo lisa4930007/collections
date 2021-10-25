@@ -1,14 +1,13 @@
-# 功能開發 | 2020.1-Present
+# 功能開發 | 2020.10-Present
 
 ### 集保戶股權分散系統  [[code]](https://github.com/lisa4930007/ownership_distribution_access_db)
-- crawlers
-- database: Office Access
-- export table and figures to excels
-- .bat批次檔、設定工作自動排程
+- 為案主進行需求分析與確認執行工具軟體，以說明文件作為與案主確認需求之媒介
+- 撰寫爬蟲以蒐集股權分散公開資料，並匯入資料至Office Access 關聯式資料庫，再依匯出條件整理所需報表、圖表儲存至Excel
+- 撰寫bash script且建立Windows定時工作排程，可完成每週自動爬蟲及匯入資料庫
+- 程式撰寫風格符合PEP8編碼規範
 
 ### GCP API Speech-to-Text  [[code]](https://gist.github.com/lisa4930007/7ae7126fc4269b2260490e1b000935a3)
-- 撰寫 Python script 使用 Speech-to-Text API 服務 
-- 上傳大型 audio 資料於 Google Cloud Storage
+為聽打逐字稿需求撰寫Python script，使用GCP Speech-to-Text 語音轉文字API並透過Google Cloud Storage傳遞大型聲音資料，最終節省8成時間!
 
 ### .mat檔轉成yolo檔格式  [[code]](https://gist.github.com/lisa4930007/9af1c0d2832e77a7454d3ed9f6fca9c2)
 
@@ -27,15 +26,17 @@
 # 網站開發 | 2020.10-Present
 
 ### (建置中) Django部落格 [[code]](https://github.com/lisa4930007/django-sweet-home)
-<b>Demo</b> https://django-sweet-home.herokuapp.com/
-- 貼文&留言板 CRUD
-- 響應式網頁、登入功能、第三方登入、使用者權限
-- Unit Test
+<b>Demo: </b> https://django-sweet-home.herokuapp.com/
+- 網站框架(Django)、後端工具(Python, Postgresql)、前端工具(CSS, Bootstrap)
+- 貼文&留言板 CRUD、響應式網頁設計、登入登出功能、使用者權限與驗證、整合第三方API (如: Facebook登入)、單元測試、SMTP郵件服務等
+- 部署至Heroku
+
 
 ### (建置中) Django錄音機網站
-- 網站框架 (Django)、後端工具 (Python, MySQL)、前端工具 (Vue.js, Bootstrap)
-- 前後端分離，後端以 API 傳遞資料至前端
-- 響應式網頁、登入功能、使用者權限、Vue.js 元件、前後台介面
+- 網站框架(Django)、後端工具(Python, MySQL)、前端工具(Vue.js, Bootstrap)
+- 後端使用Django REST framework開發APIs 與前端交換資料，達到前後端分離
+- 響應式網頁設計、登入登出功能、使用者權限與驗證、Vue.js 元件、前台後台UI、整合第三方API (如: Facebook登入)、單元測試、SMTP郵件服務、CORS設定等
+
 
 ![one_recorder_示意](https://user-images.githubusercontent.com/14839962/117851557-035c3300-b2b9-11eb-823d-dba9b7c4c7e2.png)
 
@@ -43,16 +44,18 @@
 
 # 碩士班專案 | 2017.9-2020.1
 
-### 碩士論文  [論文連結](https://drive.google.com/file/d/1riS2ZRwsAK0zWpvBbauF_OQCu7yfMdUV/view?usp=sharing)
+### 碩士論文  [[論文連結]](https://drive.google.com/file/d/1riS2ZRwsAK0zWpvBbauF_OQCu7yfMdUV/view?usp=sharing)
 「針對女性頭聲、混偏頭聲、混偏胸聲、胸聲區 音聲的分析與分類」<br/>
-- 參與 2019 國際電腦音樂暨音訊技術研討會  [Paper連結](https://drive.google.com/file/d/1FslitxCjTyNMNt1GUDr--phr_bUYqFzE/view?usp=sharing)<br/>
+- 參與 2019 國際電腦音樂暨音訊技術研討會  [[Paper連結]](https://drive.google.com/file/d/1FslitxCjTyNMNt1GUDr--phr_bUYqFzE/view?usp=sharing)<br/>
 - 作品曾展示於 2020 美國國際消費性電子展 (CES)
 
 <p>研究動機：對於初學歌唱者，在演唱中辨識和控制聲區是一項困難的事情，因此，本篇論文將研究女歌手於頭聲、混偏頭聲、混偏胸聲、胸聲區的音聲，盼能藉由建立穩健、高準確率的聲區分類模型以幫助歌手學習歌唱。</p>
 <p>研究方法與結果：在本研究中，首先充分討論了四種聲區的定義，接著，錄下三位女歌手演繹各聲區的音聲並交由兩位評審標註資料，再將這些音檔的每個時幀利用 WORLD 語音合成工具取出「梅爾倒頻譜係數」(MCC)、「帶狀非週期性的頻譜包絡」(BAP)和「基本頻率」(F0)，接著利用兩種機器學習演算法（支持向量機 SVM 和多層感知機 MLP ）進行分類，最後分別得到平均準確率為 70% 及 68% 的實驗結果。</p>
 
+<p>Tools: Python, Machine Learning (SVM/MLP), Scikit-Learn, Pandas, Matplotlib<p>
+
 ### Text-to-Song 專案
-“Examining The Influence Of Word Tonality On Pitch Contours When Singing In Mandarin.”  [Paper連結](https://drive.google.com/file/d/1YMwhpouMPATjJBI5g-RJPTN9s21sUg5p/view?usp=sharing)<br/>
+“Examining The Influence Of Word Tonality On Pitch Contours When Singing In Mandarin.”  [[Paper連結]](https://drive.google.com/file/d/1YMwhpouMPATjJBI5g-RJPTN9s21sUg5p/view?usp=sharing)<br/>
 _Oriental COCOSDA 2018 Best Student Award_
 
 ### 音樂資訊檢索 (Music Information Retrieval)
