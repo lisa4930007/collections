@@ -54,21 +54,7 @@
 
 <p>Tools: Python, Machine Learning (SVM/MLP), Scikit-Learn, Pandas, Matplotlib<p>
 
+  
 ### Text-to-Song 專案
 “Examining The Influence Of Word Tonality On Pitch Contours When Singing In Mandarin.”  [[Paper連結]](https://drive.google.com/file/d/1YMwhpouMPATjJBI5g-RJPTN9s21sUg5p/view?usp=sharing) <br/>
 _Oriental COCOSDA 2018 Best Student Award_
-
-### 音樂資訊檢索 (Music Information Retrieval)
-1. 節拍預測、節拍偵測 (beat tracking)、音符變化偵測 (onset detection)
-2. 音高偵測、和弦偵測
-3. Real-time音高偵測與即時通知提醒 (GUI demo)
-
-![圖片 1](https://user-images.githubusercontent.com/14839962/117907845-11866f80-b30a-11eb-81ba-ca119ce94b0b.png)
-
-
-
-# Graduation capstone in college | 2014.6-2015.6
-「實作HTML5於類3D線上展覽室」 [[Work link]](https://drive.google.com/file/d/18pJSgmHkTLm5NuR16cgqb89M6FUw6pMl/view?usp=sharing)
-- Team leader (led a 5-member team on the gratuate project)
-- Project planning and team member coordination
-- Coding and developing using Html5, CSS, Javascript, jQuery, WebGL, PHP and MySQL
