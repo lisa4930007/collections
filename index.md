@@ -55,7 +55,7 @@
 <p>Tools: Python, Machine Learning (SVM/MLP), Scikit-Learn, Pandas, Matplotlib<p>
 
 ### Text-to-Song 專案
-“Examining The Influence Of Word Tonality On Pitch Contours When Singing In Mandarin.”  [[Paper連結]](https://drive.google.com/file/d/1YMwhpouMPATjJBI5g-RJPTN9s21sUg5p/view?usp=sharing)<br/>
+“Examining The Influence Of Word Tonality On Pitch Contours When Singing In Mandarin.”  [[Paper連結]](https://drive.google.com/file/d/1YMwhpouMPATjJBI5g-RJPTN9s21sUg5p/view?usp=sharing) <br/>
 _Oriental COCOSDA 2018 Best Student Award_
 
 ### 音樂資訊檢索 (Music Information Retrieval)
