@@ -52,9 +52,23 @@
 <p>研究動機：對於初學歌唱者，在演唱中辨識和控制聲區是一項困難的事情，因此，本篇論文將研究女歌手於頭聲、混偏頭聲、混偏胸聲、胸聲區的音聲，盼能藉由建立穩健、高準確率的聲區分類模型以幫助歌手學習歌唱。</p>
 <p>研究方法與結果：在本研究中，首先充分討論了四種聲區的定義，接著，錄下三位女歌手演繹各聲區的音聲並交由兩位評審標註資料，再將這些音檔的每個時幀利用 WORLD 語音合成工具取出「梅爾倒頻譜係數」(MCC)、「帶狀非週期性的頻譜包絡」(BAP)和「基本頻率」(F0)，接著利用兩種機器學習演算法（支持向量機 SVM 和多層感知機 MLP ）進行分類，最後分別得到平均準確率為 70% 及 68% 的實驗結果。</p>
 
-<p>Tools: Python, Machine Learning (SVM/MLP), Scikit-Learn, Pandas, Matplotlib<p>
+<p>Tools: Python, Machine Learning (SVM/MLP), Scikit-Learn, Pandas, Matplotlib</p>
 
-  
 ### Text-to-Song 專案
 “Examining The Influence Of Word Tonality On Pitch Contours When Singing In Mandarin.”  [[Paper連結]](https://drive.google.com/file/d/1YMwhpouMPATjJBI5g-RJPTN9s21sUg5p/view?usp=sharing) <br/>
 _Oriental COCOSDA 2018 Best Student Award_
+
+### 音樂資訊檢索 (Music Information Retrieval)
+1. 節拍預測、節拍偵測 (beat tracking)、音符變化偵測 (onset detection)
+2. 音高偵測、和弦偵測
+3. Real-time音高偵測與即時通知提醒 (GUI demo)
+
+![圖片 1](https://user-images.githubusercontent.com/14839962/117907845-11866f80-b30a-11eb-81ba-ca119ce94b0b.png)
+
+
+
+# Graduation capstone in college | 2014.6-2015.6
+「實作HTML5於類3D線上展覽室」 [[Work link]](https://drive.google.com/file/d/18pJSgmHkTLm5NuR16cgqb89M6FUw6pMl/view?usp=sharing)
+- Team leader (led a 5-member team on the gratuate project)
+- Project planning and team member coordination
+- Coding and developing using Html5, CSS, Javascript, jQuery, WebGL, PHP and MySQL
