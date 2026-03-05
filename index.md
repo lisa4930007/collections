@@ -1,6 +1,6 @@
 YUN-TING LAI’s collections
 
-# n8n project | 2025.1-Present
+# n8n project | 2025.7-2025.8
 ### 客語發音自動產生器 (Hakka Phonetic Page Generator)
 
 利用 **n8n** 整合 **Python 爬蟲**解析萌典網頁資料，自動將 Google Drive 上的客語詞彙清單轉化為具備語音播放功能的互動式 HTML 頁面。專案實現了從雲端文件讀取、資料抓取到自動化網頁生成的完整流程，為客語學習提供高效的數位化解決方案。
