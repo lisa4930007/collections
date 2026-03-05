@@ -1,8 +1,9 @@
 YUN-TING LAI’s collections
 
 # n8n 專案 | 2025.1-Present
-[[n8n-Hakka-phonetic-list.json]](https://reurl.cc/Yk9mVX)
-[[Python_客語發音爬蟲]](https://reurl.cc/Yk9mVX)
+[[n8n-Hakka-phonetic-list.json]](https://github.com/lisa4930007/n8n_Hakka_phonetic_list)<br/>
+[[Python_客語發音爬蟲]](https://reurl.cc/Yk9mVX)<br/>
+<img width="764" height="770" alt="workflow" src="https://github.com/user-attachments/assets/b3e8c771-4446-42ad-b387-b9b04031f039" />
 
 # 功能開發 | 2020.10-2022.1
 
@@ -31,14 +32,14 @@ YUN-TING LAI’s collections
 
 # 網站開發 | 2020.10-2022.1
 
-### (建置中) Django部落格 [[code]](https://github.com/lisa4930007/django-sweet-home)
+### Django部落格 [[code]](https://github.com/lisa4930007/django-sweet-home)
 <b>Demo: </b> https://django-sweet-home.herokuapp.com/
 - 網站框架(Django)、後端工具(Python, Postgresql)、前端工具(CSS, Bootstrap)
 - 貼文&留言板 CRUD、響應式網頁設計、登入登出功能、使用者權限與驗證、整合第三方API (如: Facebook登入)、單元測試、SMTP郵件服務等
 - 部署至Heroku
 
 
-### (建置中) Django錄音機網站
+### (deprecated) Django錄音機網站
 - 網站框架(Django)、後端工具(Python, MySQL)、前端工具(Vue.js, Bootstrap)
 - 後端使用Django REST framework開發APIs 與前端交換資料，達到前後端分離
 - 響應式網頁設計、登入登出功能、使用者權限與驗證、Vue.js 元件、前台後台UI、整合第三方API (如: Facebook登入)、單元測試、SMTP郵件服務、CORS設定等
