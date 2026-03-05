@@ -1,6 +1,10 @@
 YUN-TING LAI’s collections
 
-# 功能開發 | 2020.10-Present
+# n8n 專案 | 2025.1-Present
+[[n8n-Hakka-phonetic-list.json]](https://reurl.cc/Yk9mVX)
+[[Python_客語發音爬蟲]](https://reurl.cc/Yk9mVX)
+
+# 功能開發 | 2020.10-2022.1
 
 ### 集保戶股權分散系統  [[code]](https://github.com/lisa4930007/ownership_distribution_access_db)
 - 為案主進行需求分析與確認執行工具軟體，以說明文件作為與案主確認需求之媒介
@@ -25,7 +29,7 @@ YUN-TING LAI’s collections
 
 
 
-# 網站開發 | 2020.10-Present
+# 網站開發 | 2020.10-2022.1
 
 ### (建置中) Django部落格 [[code]](https://github.com/lisa4930007/django-sweet-home)
 <b>Demo: </b> https://django-sweet-home.herokuapp.com/
