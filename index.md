@@ -3,7 +3,19 @@ YUN-TING LAI’s collections
 # n8n 專案 | 2025.1-Present
 [[n8n-Hakka-phonetic-list.json]](https://github.com/lisa4930007/n8n_Hakka_phonetic_list)<br/>
 [[colab- Python_客語發音爬蟲]](https://reurl.cc/Yk9mVX)<br/>
-<img width="764" height="770" alt="workflow" src="https://github.com/user-attachments/assets/b3e8c771-4446-42ad-b387-b9b04031f039" />
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="width: 50%; border: none; vertical-align: top;">
+      <strong>n8n Workflow</strong><br/>
+      <img src="https://github.com/user-attachments/assets/b3e8c771-4446-42ad-b387-b9b04031f039" width="100%">
+    </td>
+    <td style="width: 50%; border: none; vertical-align: top;">
+      <strong>Result (HTML)</strong><br/>
+      <img src="https://github.com/user-attachments/assets/a36a75ef-fa8b-4183-8b48-eb155bccc633" width="100%">
+    </td>
+  </tr>
+</table>
+
 
 # 功能開發 | 2020.10-2022.1
 
