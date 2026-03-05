@@ -1,8 +1,19 @@
 YUN-TING LAI’s collections
 
-# n8n 專案 | 2025.1-Present
-[[n8n-Hakka-phonetic-list.json]](https://github.com/lisa4930007/n8n_Hakka_phonetic_list)<br/>
-[[colab- Python_客語發音爬蟲]](https://reurl.cc/Yk9mVX)<br/>
+# n8n project | 2025.1-Present
+# 客語發音自動產生器 (Hakka Phonetic Page Generator)
+
+利用 **n8n** 整合 **Python 爬蟲**解析萌典網頁資料，自動將 Google Drive 上的客語詞彙清單轉化為具備語音播放功能的互動式 HTML 頁面。專案實現了從雲端文件讀取、資料抓取到自動化網頁生成的完整流程，為客語學習提供高效的數位化解決方案。
+
+---
+
+### 🔗 相關資源
+* 📂 **[n8n-Hakka-phonetic-list.json]**(https://github.com/lisa4930007/n8n_Hakka_phonetic_list)
+* 🐍 **[colab- Python_客語發音爬蟲]**(https://reurl.cc/Yk9mVX)
+
+---
+
+### 🚀 成果展示
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="width: 50%; border: none; vertical-align: top;">
