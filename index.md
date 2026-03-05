@@ -1,28 +1,24 @@
 YUN-TING LAI’s collections
 
 # n8n project | 2025.1-Present
-# 客語發音自動產生器 (Hakka Phonetic Page Generator)
+### 客語發音自動產生器 (Hakka Phonetic Page Generator)
 
 利用 **n8n** 整合 **Python 爬蟲**解析萌典網頁資料，自動將 Google Drive 上的客語詞彙清單轉化為具備語音播放功能的互動式 HTML 頁面。專案實現了從雲端文件讀取、資料抓取到自動化網頁生成的完整流程，為客語學習提供高效的數位化解決方案。
 
----
+🔗 相關資源
+* 📂 **[n8n-Hakka-phonetic-list.json](https://github.com/lisa4930007/n8n_Hakka_phonetic_list)**
+* 🐍 **[colab- Python_客語發音爬蟲](https://reurl.cc/Yk9mVX)** 
 
-### 🔗 相關資源
-* 📂 **[n8n-Hakka-phonetic-list.json]**(https://github.com/lisa4930007/n8n_Hakka_phonetic_list)
-* 🐍 **[colab- Python_客語發音爬蟲]**(https://reurl.cc/Yk9mVX)
-
----
-
-### 🚀 成果展示
-<table style="width: 100%; border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="width: 50%; border: none; vertical-align: top;">
-      <strong>n8n Workflow</strong><br/>
-      <img src="https://github.com/user-attachments/assets/b3e8c771-4446-42ad-b387-b9b04031f039" width="100%">
+🚀 成果展示
+<table border="0" cellpadding="0" cellspacing="0" style="width: 100%; border-collapse: collapse; border: none !important;">
+  <tr style="border: none !important;">
+    <td style="width: 50%; border: none !important; vertical-align: top; padding: 0 10px 0 0;">
+      <strong style="display: block; margin-bottom: 8px;">n8n Workflow</strong>
+      <img src="https://github.com/user-attachments/assets/b3e8c771-4446-42ad-b387-b9b04031f039" width="100%" style="display: block;">
     </td>
-    <td style="width: 50%; border: none; vertical-align: top;">
-      <strong>Result (HTML)</strong><br/>
-      <img src="https://github.com/user-attachments/assets/a36a75ef-fa8b-4183-8b48-eb155bccc633" width="100%">
+    <td style="width: 50%; border: none !important; vertical-align: top; padding: 0 0 0 10px;">
+      <strong style="display: block; margin-bottom: 8px;">Result (HTML)</strong>
+      <img src="https://github.com/user-attachments/assets/a36a75ef-fa8b-4183-8b48-eb155bccc633" width="100%" style="display: block;">
     </td>
   </tr>
 </table>
