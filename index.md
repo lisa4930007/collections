@@ -70,9 +70,9 @@ YUN-TING LAI’s collections
 
 # 碩士班專案 | 2017.9-2020.1
 
-### 碩士論文  [[論文連結]](https://drive.google.com/file/d/1riS2ZRwsAK0zWpvBbauF_OQCu7yfMdUV/view?usp=sharing)
+### 碩士論文  [[論文連結]](https://drive.google.com/file/d/1-udzuD__2B5PpKQkvQMzlPSv9W0a4VWL/view?usp=sharing)
 「針對女性頭聲、混偏頭聲、混偏胸聲、胸聲區 音聲的分析與分類」<br/>
-- 參與 2019 國際電腦音樂暨音訊技術研討會  [[Paper連結]](https://drive.google.com/file/d/1FslitxCjTyNMNt1GUDr--phr_bUYqFzE/view?usp=sharing)<br/>
+- 參與 2019 國際電腦音樂暨音訊技術研討會  [[Paper連結]](https://drive.google.com/file/d/1u2IIHcA-2FPyR_HyFnja3u3rn2lSRRd7/view?usp=sharing)<br/>
 - 作品曾展示於 2020 美國國際消費性電子展 (CES)
 
 <p>研究動機：對於初學歌唱者，在演唱中辨識和控制聲區是一項困難的事情，因此，本篇論文將研究女歌手於頭聲、混偏頭聲、混偏胸聲、胸聲區的音聲，盼能藉由建立穩健、高準確率的聲區分類模型以幫助歌手學習歌唱。</p>
@@ -81,7 +81,7 @@ YUN-TING LAI’s collections
 <p>Tools: Python, Machine Learning (SVM/MLP), Scikit-Learn, Pandas, Matplotlib</p>
 
 ### Text-to-Song 專案
-“Examining The Influence Of Word Tonality On Pitch Contours When Singing In Mandarin.”  [[Paper連結]](https://drive.google.com/file/d/1YMwhpouMPATjJBI5g-RJPTN9s21sUg5p/view?usp=sharing) <br/>
+“Examining The Influence Of Word Tonality On Pitch Contours When Singing In Mandarin.”  [[Paper連結]](https://drive.google.com/file/d/180escynSJh2IMdsN36f6ZdysOG9joCtS/view?usp=sharing) <br/>
 _Oriental COCOSDA 2018 Best Student Award_
 
 ### 音樂資訊檢索 (Music Information Retrieval)
@@ -94,7 +94,7 @@ _Oriental COCOSDA 2018 Best Student Award_
 
 
 # Graduation capstone in college | 2014.6-2015.6
-「實作HTML5於類3D線上展覽室」 [[Work link]](https://drive.google.com/file/d/18pJSgmHkTLm5NuR16cgqb89M6FUw6pMl/view?usp=sharing)
+「實作HTML5於類3D線上展覽室」 [[Work link]](https://drive.google.com/file/d/1F-5L9YOiaN3gQJyuvhNV5YtvjAFFRGsj/view?usp=sharing)
 - Team leader (led a 5-member team on the gratuate project)
 - Project planning and team member coordination
 - Coding and developing using Html5, CSS, Javascript, jQuery, WebGL, PHP and MySQL
